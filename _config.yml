@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Plush Blog
+SEOTitle: 大志小叔的博客 | Plush Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: Dazhixiaoshu@163.com
+description: "Every failure is leading towards success."#前人，不加注释欺负我英语不好
+keyword: "网安, Mac, Mac开发, C语言, 常用小技巧, 数据加密破解恢复, Apple, iPhone"
+url: "http://plush9.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+# Sidebar settings侧边栏
+sidebar: true                           # whether or not using Sidebar.是否使用侧边栏
+sidebar-about-description: "Never forget why you started, and your mission can be accomplished."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
-# SNS settings
+# SNS settings社交网络服务
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:   大志小叔_Plush
+zhihu_username:     Dazhixiaoshu_Plsuh
+github_username:    plsuh9
+facebook_username:  h.plush.9
+jianshu_username:   大志小叔_Plush
+#
 
 
 
